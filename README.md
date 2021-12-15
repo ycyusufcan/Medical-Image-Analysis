@@ -8,8 +8,8 @@ In this repo you will see
   
   - how to train models,
   
-  - dicom,
+  - dicom data format,
   
-  - nifti
+  - nifti data format
   
  
